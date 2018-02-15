@@ -2,4 +2,4 @@
 
 Simple JavaScript game :)
 
-Play!
+Play! https://damianlis.github.io/Buddy-Game/
